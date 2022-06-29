@@ -1,7 +1,7 @@
 import './App.css';
-import Centr from './comps.js/Centr';
-import Headbar from './comps.js/Headbar';
-import NavbarL from './comps.js/NavbarL';
+import Centr from './Centr';
+import Headbar from './Headbar';
+import NavbarL from './NavbarL';
 
 
 
